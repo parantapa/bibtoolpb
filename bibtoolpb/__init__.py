@@ -32,3 +32,5 @@ def cli():
     """
 
     pass
+
+import bibtoolpb.fmt
