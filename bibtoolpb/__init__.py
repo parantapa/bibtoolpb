@@ -34,3 +34,4 @@ def cli():
     pass
 
 import bibtoolpb.fmt
+import bibtoolpb.check
